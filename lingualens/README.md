@@ -37,8 +37,9 @@ streamlit run app.py
 python -c "import stanza; stanza.download('la')"
 ```
 ##Example Input
+```bash
 puella rosam amat
-
+```
 
 ##Example Output
 ```bash
