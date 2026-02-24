@@ -1,1 +1,55 @@
-
+word,lemma,pos,gloss
+puella,puella,noun,girl
+puellae,puella,noun,girl (gen sg / dat sg / nom pl)
+puellam,puella,noun,girl (acc sg)
+puellarum,puella,noun,girls (gen pl)
+puellis,puella,noun,girls (dat/abl pl)
+rosa,rosa,noun,rose
+rosae,rosa,noun,rose/roses
+rosam,rosa,noun,rose (acc sg)
+rosarum,rosa,noun,roses (gen pl)
+rosis,rosa,noun,roses (dat/abl pl)
+amicus,amicus,noun,friend (m)
+amicum,amicus,noun,friend (acc sg)
+amici,amicus,noun,friend/friends
+amo,amo,verb,I love
+amas,amo,verb,you love
+amat,amo,verb,he/she/it loves
+amamus,amo,verb,we love
+amatis,amo,verb,you all love
+amant,amo,verb,they love
+sum,sum,verb,I am
+es,sum,verb,you are
+est,sum,verb,he/she/it is
+sumus,sum,verb,we are
+estis,sum,verb,you all are
+sunt,sum,verb,they are
+video,video,verb,I see
+vides,video,verb,you see
+videt,video,verb,he/she/it sees
+videmus,video,verb,we see
+videtis,video,verb,you all see
+vident,video,verb,they see
+rex,rex,noun,king
+regem,rex,noun,king (acc sg)
+regis,rex,noun,king (gen sg)
+in,in,prep,in/on
+et,et,conj,and
+non,non,adv,not
+nauta,nauta,noun,sailor
+nautam,nauta,noun,sailor (acc sg)
+nautae,nauta,noun,sailor/sailors
+agricola,agricola,noun,farmer
+agricolam,agricola,noun,farmer (acc sg)
+agricolae,agricola,noun,farmer/farmers
+bellum,bellum,noun,war
+belli,bellum,noun,war (gen sg)
+bellum,bellum,noun,war (nom/acc sg)
+bona,bonus,adj,good (fem sg / neut pl)
+bonus,bonus,adj,good (masc sg)
+bonum,bonus,adj,good (neut sg / masc acc sg)
+magna,magnus,adj,great (fem sg / neut pl)
+magnus,magnus,adj,great (masc sg)
+magnum,magnus,adj,great (neut sg / masc acc sg)
+terra,terra,noun,land/earth
+terram,terra,noun,land/earth (acc sg)
