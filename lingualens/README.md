@@ -35,4 +35,24 @@ streamlit run app.py
 ##Optional: Download Stanza Latin model
 ```bash
 python -c "import stanza; stanza.download('la')"
+```
+##Example Input
+puella rosam amat
+
+
+##Example Output
 ```bash
+Possible translation: The girl loves the rose.
+```
+
+---
+
+## How to run (fast)
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+If Stanza errors on first run:
+
+python -c "import stanza; stanza.download('la')"
+```
